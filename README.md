@@ -1,2 +1,3 @@
-# stackoverflow-sql-analysis
-Analysis of user behavior of the Stackoverflow database
+# Аналитика пользовательского поведения на основе базы данных Stackoverflow
+ER-диаграмма базы:
+
